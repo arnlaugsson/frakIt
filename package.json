@@ -1,7 +1,7 @@
 {
   "name": "frakit",
   "version": "0.0.1",
-  "description": "My personal learning blog.",
+  "description": "",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -31,5 +31,6 @@
     "luxon": "^1.21.3",
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.2.5"
-  }
+  },
+  "keywords": []
 }
