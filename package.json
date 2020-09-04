@@ -1,7 +1,7 @@
 {
   "name": "frakit",
   "version": "0.0.1",
-  "description": "",
+  "description": "My learning blog.",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
