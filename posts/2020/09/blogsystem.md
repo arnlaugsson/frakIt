@@ -19,9 +19,9 @@ So my Technical stack is settled.
 - Blog framework: [Eleventy - 11ty](https://www.11ty.dev)
   - A straightforward static site generator.
   - I opted to create my folder structure for the blog posts, using years and months to separate posts.
-- Code editor: [gitpod.io](gitpod.io)
+- Code editor: [gitpod.io](https://gitpod.io)
   - One caveat; make sure to give it the proper permissions.
-- Code hosting: [Github](github.com)
+- Code hosting: [Github](https://github.com)
   - I might change this later on to have a comparison, but I like how Github works.
 - Deployment and hosting: [Netlify](https://www.netlify.com)
   - Seamless integration and setup; works out of the box.
