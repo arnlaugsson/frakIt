@@ -1,5 +1,5 @@
 ---
-title: #100DaysOfCode
+title: "100 Days Of Code"
 date: "2021-05-27"
 description: "100 days of code Summer challenge"
 layout: layouts/post.njk
